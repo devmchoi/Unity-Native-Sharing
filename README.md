@@ -76,6 +76,11 @@ Slack         | ✔              | ✔            | ✔
 * Look into video sharing
 * Sharing multiple files
 * Sharing Links w/ Text
+* Add screenshots to make the README look more juicy
+* Create CREDITS.md where contributors can add their names
+* Create COMPATIBILITY.md which will record the compatibility of an app's ability to share
+* Create SHOWREEL.md where games that use the plugin can be shown off
+* Convert the bullet points in the roadmap into GitHub issues so that other developers can pick them up
 
 ## Platform Notes
 #### Android
